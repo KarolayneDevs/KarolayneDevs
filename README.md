@@ -188,5 +188,5 @@ Me chamo Karolayne da Silva Diniz, sou natural de Manaus - AM. Atualmente estou 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:2c5364,100:0f2027&height=150&section=footer&text=Keep%20Coding!%20%F0%9F%92%BB&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:2c5364,100:0f2027&height=150&section=footer&text=Keep%20Coding!%20%F0%9F%92%BB&fontSize=25&fontColor=a29bfe&animation=fadeIn&fontAlignY=75" width="100%"/>
 </p>
