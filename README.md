@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:24243e&height=200&section=header&text=Karolayne%20Devs&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20%F0%9F%94%AD%20Apaixonada%20por%20tecnologia%20e%20astronomia&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:3d1e6d,100:6a4c93&height=200&section=header&text=Karolayne%20Devs&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20%F0%9F%94%AD%20Apaixonada%20por%20tecnologia%20e%20astronomia&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 # 👩🏻‍💻 Karolayne Devs
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Karolayne da Silva Diniz, sou natural de Manaus - AM. Atualmente estou cursando Ciência da Computação na UNINORTE (8º período, previsão de conclusão em dezembro de 2026). Sou apaixonada por tecnologia e por tudo que envolve entender como as coisas funcionam por trás das telas, seja um sistema, uma rede, ou até o universo lá fora, já que também sou fascinada por astronomia. Atuei na área de Tecnologia da Informação no CETAM, onde dei suporte técnico a usuários, ajudei na manutenção de computadores e equipamentos, e cuidei da organização de sistemas e arquivos, uma vivência que amei ter e que me deixou ainda mais certa de que essa é a área que eu quero seguir.
+Me chamo Karolayne da Silva Diniz, sou natural de Manaus - AM. Atualmente estou cursando Ciência da Computação na UNINORTE (7º período, previsão de conclusão em dezembro de 2026). Sou apaixonada por tecnologia e por tudo que envolve entender como as coisas funcionam por trás das telas, seja um sistema, uma rede, ou até o universo lá fora, já que também sou fascinada por astronomia. Atuei na área de Tecnologia da Informação no CETAM, onde dei suporte técnico a usuários, ajudei na manutenção de computadores e equipamentos, e cuidei da organização de sistemas e arquivos, uma vivência que amei ter e que me deixou ainda mais certa de que essa é a área que eu quero seguir.
 
 <p align="left">
     <img 
@@ -188,5 +188,5 @@ Me chamo Karolayne da Silva Diniz, sou natural de Manaus - AM. Atualmente estou 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:2c5364,100:0f2027&height=150&section=footer&text=Keep%20Coding!%20%F0%9F%92%BB&fontSize=25&fontColor=a29bfe&animation=fadeIn&fontAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a4c93,50:3d1e6d,100:1a0b2e&height=150&section=footer&text=Keep%20Coding!%20%F0%9F%92%BB&fontSize=25&fontColor=e0d4f7&animation=fadeIn&fontAlignY=75" width="100%"/>
 </p>
