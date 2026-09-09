@@ -187,24 +187,10 @@ Me chamo Karolayne da Silva Diniz, sou natural de Manaus - AM. Atualmente estou 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🏆 Troféus
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KarolayneDevs&show_icons=true&theme=tokyonight" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolayneDevs&theme=tokyonight&layout=compact" 
-  />
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KarolayneDevs&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 <br/>
