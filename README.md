@@ -187,8 +187,6 @@ Me chamo Karolayne da Silva Diniz, sou natural de Manaus - AM. Atualmente estou 
 <br/>
 <br/>
 
-### 📈 Atividade
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarolayneDevs&bg_color=0d1117&color=8be9fd&line=bd93f9&point=ffffff&area=true&hide_border=true" />
 </p>
