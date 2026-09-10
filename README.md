@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:3d1e6d,100:6a4c93&height=200&section=header&text=Karolayne%20Devs&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20%F0%9F%94%AD%20Apaixonada%20por%20tecnologia%20e%20astronomia&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-# 👩🏻‍💻 Karolayne Diniz
+# 👩🏻‍💻 Kah Diniz
 
 **`Estudante de Ciência da Computação`**
 
